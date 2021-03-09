@@ -1,0 +1,16 @@
+div{
+  width: 1227px;
+}
+a{
+  outline: none;
+  text-decoration: none;
+  color: black;
+  transition: all 0.3s ease;
+}
+
+a:hover{
+  color: red;
+}
+img{
+  width: 1200px;
+}
